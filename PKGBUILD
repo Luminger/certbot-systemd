@@ -1,7 +1,7 @@
 # Maintainer: Simon Brakhane <simon@aur.brakhane.net>
 
 pkgname=certbot-systemd
-pkgver=0.2.0
+pkgver=0.2.1
 pkgrel=1
 pkgdesc='Systemd scripts for certbot (letsencrypt) renewals'
 license=('GPL3')
